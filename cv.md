@@ -3,10 +3,11 @@
 ---
 ### Contact information:
 
-* __Phone number:__ +79370811190
-* __E-mail:__ anastasyabormotova@gmail.com
-* __GitHub:__ [vishenkahimik](https://github.com/vishenkahimik)
-* __Discord:__ Anastasiia (@vishenkahimik)
+* **Phone number:** +79370811190
+* **E-mail:** anastasyabormotova@gmail.com
+* **GitHub:** [vishenkahimik](https://github.com/vishenkahimik)
+* **Discord:** Anastasiia (@vishenkahimik)
+
 ---
 
 ### About me:
@@ -34,12 +35,12 @@ function multiply(a, b){
 ____
 ### Education:
 
-* __University:__ Volgograd State Medical University, Dentist-orthopaedic.
+* **University:** Volgograd State Medical University, Dentist-orthopaedic.
 ---
 
 ### Languages:
 
-* __Russian:__ native
-* __English:__ A2
+* **Russian:**   native
+* **English:**   A2
 
 <img src="/img/i.png" alt="oops" width="200"/>
