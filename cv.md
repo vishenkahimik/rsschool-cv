@@ -27,5 +27,14 @@ function multiply(a, b){
   return a * b
 }
 ```
+###Experience:
+____
+###Education:
+* __University:__ Volgograd State Medical University, Dentist-orthopaedic.
+---
+
+###Languages:
+* __Russian:__ native
+* __English:__ A2
 
 ![oops](/img/i.png)
