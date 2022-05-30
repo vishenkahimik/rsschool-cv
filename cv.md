@@ -42,4 +42,4 @@ ____
 * __Russian:__ native
 * __English:__ A2
 
-![oops](/img/i.png)
+<img src="/img/i.png" alt="oops" width="200"/>
