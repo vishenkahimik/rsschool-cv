@@ -20,4 +20,12 @@ I graduated from the Medical University with honors. Also I am an chemestry teac
 
 ---
 
+###Code example:
+
+```
+function multiply(a, b){
+  return a * b
+}
+```
+
 ![oops](/img/i.png)
