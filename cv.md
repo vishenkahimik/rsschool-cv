@@ -35,7 +35,7 @@ function multiply(a, b){
 ____
 ### Education:
 
-* **University:** Volgograd State Medical University, Dentist-orthopaedic.
+* **University:**   Volgograd State Medical University, Dentist-orthopaedic.
 ---
 
 ### Languages:
