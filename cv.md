@@ -26,7 +26,7 @@ I graduated from the Medical University with honors. Also I am an chemestry teac
 
 ### Code example:
 
-```
+```js
 function multiply(a, b){
   return a * b
 }
@@ -35,7 +35,7 @@ function multiply(a, b){
 ____
 ### Education:
 
-* **University:**   Volgograd State Medical University, Dentist-orthopaedic.
+* **University**   Volgograd State Medical University, Dentist-orthopaedic.
 ---
 
 ### Languages:
