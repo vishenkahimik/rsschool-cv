@@ -43,4 +43,4 @@ ____
 * **Russian:**   native
 * **English:**   A2
 
-<img src="/img/i.png" alt="oops" width="200"/>
+[![i.png](https://i.postimg.cc/WzLYNxWQ/i.png)](https://postimg.cc/ZBHxjshc)
