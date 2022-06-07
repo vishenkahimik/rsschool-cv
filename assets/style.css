@@ -122,7 +122,7 @@ body {
 .section-skills {
   padding: 0px;
 }
-.fa-solid {
+.fa-solid::before {
   padding-bottom: 25px;
 }
 .section-skills-item {
