@@ -5,11 +5,134 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <title>cv</title>
 </head>
 
 <body>
-  <p>test</p>
+  <header class="header">
+    <div class="header__wrapper">
+      <div class="header__photo">
+        <img src="./assets/img/img.png" alt="oops" class="header__photo-pic" />
+      </div>
+
+      <div class="header__myname">
+        <h1 class="header__myname-header">Anastasiia Vishnyiakova</h1>
+        <h2>future front-end developer</h2>
+      </div>
+
+      <nav class="header__nav">
+        <ul class="header__list">
+          <li class="header__item">
+            <a href="#about" class="header__link">About</a>
+          </li>
+          <li class="header__item">
+            <a href="#skills" class="header__link">Skills</a>
+          </li>
+          <li class="header__item">
+            <a href="#code" class="header__link">Code</a>
+          </li>
+          <li class="header__item">
+            <a href="#contacts" class="header__link">Contacts</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main class="main main-container">
+    <div class="container">
+      <section class="section" id="contacts">
+        <h2 class="section-title">Contacts</h2>
+        <ul class="section-list">
+          <li class="section-item fa-solid fa-location-dot">
+            Volgograd, Russia
+          </li>
+          <li class="section-item fa-solid fa-envelope">
+            anastasyabormotova@gmail.com
+          </li>
+          <li class="section-item fa-solid fa-paper-plane">@vishenkahimik</li>
+          <li class="section-item fa-brands fa-github-alt">vishenkahimik</li>
+          <li class="section-item fa-brands fa-discord">
+            vishenkahimik#2063
+          </li>
+        </ul>
+      </section>
+      <section class="section" id="about">
+        <h2 class="section-title">About me</h2>
+        <p>
+          I graduated from the Medical University with honors. Also I am an
+          chemestry teacher. But some time ago my friend told me about his
+          profession, he's a front-end software engineer. I got interested. So
+          I'm here. I find the best school. And I become study. And I will
+          succeed, I am very meticulous, hardworking. I think these skills are
+          most important for that field of activity.
+        </p>
+      </section>
+      <section class="section" id="skills">
+        <h2 class="section-title">Skills</h2>
+        <ul class="section-skills">
+          <li class="section-skills-item fa-solid fa-circle-check">
+            Web-development: <span>HTML5, CSS3, JavaScript</span>
+          </li>
+          <li class="section-skills-item fa-solid fa-circle-check">
+            Version control: <span>GIT, Github</span>
+          </li>
+          <li class="section-skills-item fa-solid fa-circle-check">
+            Graphics: <span>Figma</span>
+          </li>
+        </ul>
+      </section>
+      <section class="section" id="code">
+        <h2 class="section-title">Code</h2>
+        <pre><code>function multiply(a, b){
+return a * b
+}
+     </code></pre>
+      </section>
+      <section class="section" id="courses">
+        <h2 class="section-title">Courses</h2>
+        <ul class="section-courses">
+          <li class="section-courses-item fa-solid fa-circle-check">
+            Hexlet: <span>HTML for begginers</span>
+          </li>
+        </ul>
+      </section>
+      <section class="section" id="projects">
+        <h2 class="section-title">Projects</h2>
+        <ul class="section-projects">
+          <li class="section-projects-item fa-solid fa-circle-check">
+            <a href="https://vishenkahimik.github.io/rsschool-cv/cv">CV Markdown</a>
+          </li>
+        </ul>
+      </section>
+      <section class="section" id="education">
+        <h2 class="section-title">Education</h2>
+        <p>Volgograd State Medical University, Dentist-orthopaedic</p>
+      </section>
+      <section class="section" id="languages">
+        <h2 class="section-title">Languages</h2>
+        <ul class="section-languages">
+          <li class="section-languages-item fa-solid fa-circle-check">
+            Russian: <span>native</span>
+          </li>
+          <li class="section-languages-item fa-solid fa-circle-check">
+            English: <span>A2</span>
+          </li>
+        </ul>
+      </section>
+    </div>
+  </main>
+  <footer class="footer">
+    <div class="container footer">
+      <div class="footer-item">© <time datetime="2022">2022</time></div>
+      <div class="footer-item">
+        <a class="github fa-brands fa-github" href="https://github.com/vishenkahimik">vishenkahimik
+        </a>
+      </div>
+      <div class="footer-item">
+        <a class="footer-item-link" href="https://rs.school/js/">f</a>
+      </div>
+    </div>
+  </footer>
 </body>
 
 </html>
