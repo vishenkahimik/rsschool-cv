@@ -1,1 +1,1 @@
-https://vishenkahimik.github.io/rsschool-cv/
+https://vishenkahimik.github.io/rsschool-cv/cv
