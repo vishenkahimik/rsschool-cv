@@ -35,3 +35,7 @@ ____
 * **University**   Volgograd State Medical University, Dentist-orthopaedic.
 ---
 
+### Languages:
+
+* **Russian:**   native
+* **English:**   A2
